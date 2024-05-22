@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Azael-oficial
 - 👀 I’m interested in en conocer gente nueva 
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me c++
+- 💞️ I’m looking to collaborate on c++
+- 📫 How to reach me instagram: azael_oficial_gg
 - 😄 Pronouns: ...
 - ⚡ Fun fact: me gusta el color rosa :D y tengo 17 
 
